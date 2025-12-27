@@ -1,7 +1,0 @@
-# VS Code
-.vscode/
-
-# ROS2 generated folders
-build/
-install/
-log/
